@@ -254,7 +254,6 @@
 	<project path="packages/wallpapers/NoiseField" name="packages_wallpapers_NoiseField" remote="ligux" revision="ics"/>
 	<project path="packages/wallpapers/PhaseBeam" name="packages_wallpapers_PhaseBeam" remote="ligux" revision="ics"/>
   <project path="prebuilt" name="CyanogenMod/android_prebuilt" />
-  <project path="prebuilts/gcc/linux-x86/arm/linaro-4.7" name="android_prebuilts_gcc_linux-x86_arm_linaro-4.7" remote="github" revision="ics"/>
 	<project path="vendor/akm" name="vendor_akm" remote="ligux" revision="ics"/>
 	<project path="vendor/broadcom" name="vendor_broadcom" remote="ligux" revision="ics"/>	
 	<project path="vendor/cm" name="vendor_cm" remote="ligux" revision="ics"/>
